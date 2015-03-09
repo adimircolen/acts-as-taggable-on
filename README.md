@@ -32,7 +32,7 @@ For an up-to-date roadmap, see https://github.com/mbleigh/acts-as-taggable-on/mi
 To use it, add it to your Gemfile:
 
 ```ruby
-gem 'acts-as-taggable-on', '~> 3.4'
+gem 'acts-as-taggable-on', '~> 3.5'
 ```
 
 and bundle:
